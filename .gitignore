@@ -1,0 +1,19 @@
+
+# dependencies
+/auth/node_modules/
+
+
+
+# production
+/frontend/build
+
+# misc
+/backend/config/config.env
+/auth/.env.local
+/auth/.env.development.local
+/auth/.env.test.local
+/auth/.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
